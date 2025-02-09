@@ -1,0 +1,16 @@
+Data Structure...
+
+Types of Array...
+
+1. 1D Array (Index Array)
+2. 2D Array
+3. Associative Array (Objective Array)
+
+
+//1D Array (Index Array)
+let marks = [59, 60, 56, 76, 90];
+             0   1   2   3   4
+
+//Associative Array (Objective Array)
+
+let man = {name: "Rahim", age: 78, blood: "O+", phone: "+8801XXXXXXXXX", address: "Uttara, Dhaka"};
